@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+    color: rgb(47, 207, 154);
+}
+
+button{
+    border-radius: 30px;
+    font-style: italic;
+    color: rgb(47, 207, 154);
+
+}
